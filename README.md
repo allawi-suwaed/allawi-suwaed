@@ -45,7 +45,7 @@ I enjoy turning ideas into code, continuously improving my skills, and sharing m
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://tiles.bio/assets/images/landing/tiles-logo-nav.png)](https://tiles.bio/allawi_suwaed)  
+[![Tiles.bio](https://tiles.bio/assets/images/landing/tiles-logo-nav.png)](https://tiles.bio/allawi_suwaed)  
 
 ---
 ⭐ Always open to learning, collaborating, and building new projects! Welcome to explore my GitHub!
@@ -53,14 +53,14 @@ I enjoy turning ideas into code, continuously improving my skills, and sharing m
 ---
 ```cpp
 // Focused on mastering C++ and OOP
-class AliSuwaed {
+class Ali_Suwaed {
 public:
-    string university = "College of Computer Science";
-    string track = "C++ Developer & Problem Solver";
+    string university = " Al-Mansour University College";
+    string track = "Full Stack Developer";
     string passion = "Solving Programming Challenges & Building Projects";
     string roadmap = "Following Abu-Hadhoud Roadmap on Programming Advices";
     
-    void sayHi() { 
+    void Say_Hi() { 
         cout << "Thanks for visiting my GitHub profile! 🚀"; 
     }
 };
